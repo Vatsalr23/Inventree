@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		401E09221E2A072500BA54F0 /* GetInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 401E09211E2A072500BA54F0 /* GetInfo.swift */; };
+		40DBDF2D1E2A13B600B304D4 /* Names.txt in Resources */ = {isa = PBXBuildFile; fileRef = 40DBDF2C1E2A13B600B304D4 /* Names.txt */; };
 		515F122E1E29F412004DC54A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 515F122D1E29F412004DC54A /* AppDelegate.swift */; };
 		515F12301E29F412004DC54A /* StartScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 515F122F1E29F412004DC54A /* StartScreen.swift */; };
 		515F12331E29F412004DC54A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 515F12311E29F412004DC54A /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		401E09211E2A072500BA54F0 /* GetInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetInfo.swift; sourceTree = "<group>"; };
+		40DBDF2C1E2A13B600B304D4 /* Names.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Names.txt; path = ../Names.txt; sourceTree = "<group>"; };
 		515F122A1E29F411004DC54A /* Inventree.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Inventree.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		515F122D1E29F412004DC54A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		515F122F1E29F412004DC54A /* StartScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartScreen.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				515F122F1E29F412004DC54A /* StartScreen.swift */,
 				401E09211E2A072500BA54F0 /* GetInfo.swift */,
 				515F12341E29F412004DC54A /* Assets.xcassets */,
+				40DBDF2C1E2A13B600B304D4 /* Names.txt */,
 			);
 			path = Inventree;
 			sourceTree = "<group>";
@@ -130,6 +133,7 @@
 				515F12381E29F412004DC54A /* LaunchScreen.storyboard in Resources */,
 				515F12351E29F412004DC54A /* Assets.xcassets in Resources */,
 				515F12331E29F412004DC54A /* Main.storyboard in Resources */,
+				40DBDF2D1E2A13B600B304D4 /* Names.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
